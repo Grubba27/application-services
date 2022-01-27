@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FrecencyThresholdOption",""],["MatchReason",""]],"struct":[["Dummy",""],["HistoryVisitInfo",""],["HistoryVisitInfosWithBound",""],["PlacesConnection",""],["SearchResult",""],["TopFrecentSiteInfo",""]]});

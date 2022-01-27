@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ServiceStatus",""],["SyncEngineSelection",""],["SyncReason",""]],"fn":[["disconnect",""],["reset",""],["reset_all",""],["sync",""],["wipe",""]],"mod":[["error",""],["manager",""]],"struct":[["DeviceSettings",""],["SyncAuthInfo",""],["SyncParams",""],["SyncResult",""]]});
